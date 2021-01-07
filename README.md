@@ -2,7 +2,7 @@
 Simple Pushover CLI client, written in Go.
 
 # Installation
-Binaries are available to download on the releases page. Alternatively, you can install by running `go install github.com/luketainton/pushover`.
+Binaries are available to download on the [releases page](https://github.com/luketainton/go-pushover/releases). Alternatively, you can install by running `go install github.com/luketainton/pushover`.
 
 # Usage
 | Flag      | Description         |
